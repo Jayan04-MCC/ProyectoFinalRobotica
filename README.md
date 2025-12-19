@@ -2,6 +2,18 @@
 
 Este proyecto implementa **Deep Q-Network (DQN)** acelerado con CUDA para resolver problemas de navegación y control robótico. El proyecto está dividido en tres componentes principales que demuestran la escalabilidad del algoritmo desde entornos simulados simples hasta implementaciones en hardware real.
 
+## Integrantes del Proyecto
+
+| Integrante | Participación |
+|-----------|---------------|
+| DIAZ CASTRO, BERLY JOEL | 14.28% |
+| MARIÑOS HILARIO, PRINCCE YORWIN | 14.28% |
+| YANQUI VERA, HENRY ARON | 14.28% |
+| CACERES CUBA, JAYAN MICHAEL | 14.28% |
+| APAZA CONDORI, JHON ANTHONY | 14.28% |
+| ARONI JARATA, ANTONY | 14.28% |
+| CARAZAS QUISPE, ALESSANDER JESUS | 14.28% |
+
 ## 📋 Tabla de Contenidos
 
 - [Descripción General](#-descripción-general)
