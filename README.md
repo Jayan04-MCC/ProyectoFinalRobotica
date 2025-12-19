@@ -411,13 +411,6 @@ Todos los componentes usan **CUDA Unified Memory** para:
 - **Métrica**: Seguimiento continuo de línea por >50 pasos
 - **Tiempo de entrenamiento**: ~30-60 minutos
 
-## 👥 Autores
-
-**Proyecto Final de Robótica**
-- Universidad: [Tu Universidad]
-- Curso: [Nombre del Curso]
-- Año: 2024
-
 ## 📝 Licencia
 
 Este proyecto es de código abierto y está disponible bajo la licencia MIT.
